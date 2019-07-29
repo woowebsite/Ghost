@@ -53,9 +53,8 @@
 
 <a href="https://ghost.org/pricing"><img src="https://user-images.githubusercontent.com/120485/43995179-556d7620-9da1-11e8-8410-4b2ba48ea8d0.png" alt="Ghost(Pro)" width="165px" /></a>
 
-The easiest way to deploy Ghost is with our official **[Ghost(Pro)](https://ghost.org/pricing/)** managed service. You can have a fresh instance up and running in a couple of clicks with a worldwide CDN, backups, security and maintenance all done for you.
-
-Not only will it save you hours of maintenance per month, but all revenue goes to the Ghost Foundation, which funds the maintenance and further development of Ghost itself. So you’ll be supporting open source software *and* getting a great service! Alternatively if you'd like to support us, we're very grateful to all our backers on [Open Collective](https://opencollective.com/ghost) :heart:
+Fork by WooWebsite
+- Make more than 9 images on Gallery
 
 &nbsp;
 
